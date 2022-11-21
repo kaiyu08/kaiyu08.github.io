@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "optimization"
+title: "Optimization"
 permalink: /optimization/
 author_profile: true
 ---
